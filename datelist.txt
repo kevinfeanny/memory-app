@@ -1,0 +1,21 @@
+5 2020 1 1                                                                                                    kkjjj
+7 2020 8 1                                                                                                   easter
+1 1952 17 1                                                                                                momsbirthday
+2 1953 25 1                                                                                               dadsbirthday
+1 1952 17 1                                                                                             kkkll
+4 2020 15 0    Tax Day
+4 2020 22 0    :false
+5 2020 10 0    Mother's Day
+5 2020 25 0    Memorial Day
+6 2020 21 0    Father's Day
+7 2020 3 0    Independence Day (substitute day)
+7 2020 4 0    Independence Day
+9 2020 7 0    Labor Day
+10 2020 12 0    Columbus Day
+10 2020 31 0    Halloween
+11 2020 3 0    Election Day
+11 2020 11 0    Veterans Day
+11 2020 26 0    Thanksgiving Day
+11 2020 27 0    Day after Thanksgiving Day
+12 2020 25 0    Christmas Day
+12 2020 31 0    New Year's Eve
